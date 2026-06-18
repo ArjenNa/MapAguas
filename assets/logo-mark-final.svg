@@ -1,0 +1,6 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="mapAguas mark">
+  <circle cx="120" cy="120" r="100" fill="#2d6fa4"></circle>
+  <path d="M120,20 A100,100 0 0,1 120,220 A50,50 0 0,1 120,120 A50,50 0 0,0 120,20 Z" fill="#14324c" transform="rotate(180 120 120)"></path>
+  <circle cx="120" cy="70" r="15" fill="#f5f9ff"></circle>
+  <path d="M90,194 C101,210 111,211 120,211 A91,91 0 0,0 151.12,205.51" fill="none" stroke="#f5f9ff" stroke-width="6" stroke-linecap="round"></path>
+</svg>
